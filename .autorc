@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "randev4",
+  "repo": "container-vlwwtxo",
+  "name": "randev4",
+  "email": "randev4@gmail.com",
+}
